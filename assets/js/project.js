@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Music Analyzer",
+    title: ".WAV File Parser",
     cardImage: "assets/images/project-page/music-analyze.jpg",
     description: "A web app built using C# that analyzes .WAV files.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/BusbyD/MusicAnalyzer",
   },
   {
-    title: "ETSU BucHunt",
+    title: "Scavenger Hunt App",
     cardImage: "assets/images/project-page/Buchunt.jpg",
     description: "A web app built while in Software Engineering I.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/BusbyD/ETSUBucHunt",
   },
   {
-    title: "ETSU Campus Tour",
+    title: "ETSU Campus Tour App",
     cardImage: "assets/images/project-page/CampusTour.jpg",
     description: "A web app built while in Software Engineering II.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
